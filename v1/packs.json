@@ -1,0 +1,6 @@
+{
+  "version": "v1",
+  "packs": [
+    {"file": "id-ardi.zip", "bytes": 65917380, "sha256": "442192e66b540047cd58ec80ac41354722fb2a274aeab8e9241f201540d3be26"}
+  ]
+}

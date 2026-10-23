@@ -1,0 +1,136 @@
+{
+  "id": "calm-arrive",
+  "voiceId": "id-ardi",
+  "edgeVoice": "id-ID-ArdiNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 112,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Selamat datang.",
+      "file": "c000.ogg",
+      "durationSec": 3.48
+    },
+    {
+      "index": 1,
+      "text": "Ambil waktu kanggo tiba di sini.",
+      "file": "c001.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 2,
+      "text": "Temokake posisi nyaman, utawa rebah kalau rasa lembut luwih bagus.",
+      "file": "c002.ogg",
+      "durationSec": 7.92
+    },
+    {
+      "index": 3,
+      "text": "Biarkan tanganmu tenang.",
+      "file": "c003.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 4,
+      "text": "Izinkan mata mu tertutup, utawa lembutkan pandanganmu.",
+      "file": "c004.ogg",
+      "durationSec": 7.392
+    },
+    {
+      "index": 5,
+      "text": "Perhatikan bahwa kamu di sini.",
+      "file": "c005.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 6,
+      "text": "Tidak ada yang perlu diperbaiki sekarang.",
+      "file": "c006.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 7,
+      "text": "Tidak ada yang perlu diselesaikan.",
+      "file": "c007.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 8,
+      "text": "Ambil napas pelan masuk melalui hidung.",
+      "file": "c008.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 9,
+      "text": "Dan napas keluar sing lebih panjang.",
+      "file": "c009.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 10,
+      "text": "Lagi. Napas masuk lembut.",
+      "file": "c010.ogg",
+      "durationSec": 6.528
+    },
+    {
+      "index": 11,
+      "text": "Napas keluar lembut.",
+      "file": "c011.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 12,
+      "text": "Rasakan bobot tubuhmu didukung.",
+      "file": "c012.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 13,
+      "text": "Lantai, kursi, bumi sing memegangmu.",
+      "file": "c013.ogg",
+      "durationSec": 6.792
+    },
+    {
+      "index": 14,
+      "text": "Jika pikiran berpindah, itu tidak masalah.",
+      "file": "c014.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 15,
+      "text": "Hanya perhatikan, lan kembalilah ke napas ini.",
+      "file": "c015.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 16,
+      "text": "Napas masuk. Tiba.",
+      "file": "c016.ogg",
+      "durationSec": 5.928
+    },
+    {
+      "index": 17,
+      "text": "Napas keluar. Tenang.",
+      "file": "c017.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 18,
+      "text": "Satu napas lagi yang mudah.",
+      "file": "c018.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 19,
+      "text": "Ketika Anda siap, buka mata Anda.",
+      "file": "c019.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 20,
+      "text": "Bawa ketenangan ini bersama Anda.",
+      "file": "c020.ogg",
+      "durationSec": 4.848
+    }
+  ]
+}

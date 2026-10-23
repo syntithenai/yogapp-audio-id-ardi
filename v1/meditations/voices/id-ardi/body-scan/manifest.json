@@ -1,0 +1,148 @@
+{
+  "id": "body-scan",
+  "voiceId": "id-ardi",
+  "edgeVoice": "id-ID-ArdiNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 151,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Kami akan memindai tubuh dengan lembut.",
+      "file": "c000.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 1,
+      "text": "Berbaring atau duduk dengan nyaman.",
+      "file": "c001.ogg",
+      "durationSec": 4.872
+    },
+    {
+      "index": 2,
+      "text": "Tutup mata jika itu terasa aman.",
+      "file": "c002.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 3,
+      "text": "Mulai dari mahkota kepala.",
+      "file": "c003.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 4,
+      "text": "Perhatikan sensasi di sana. Kehangatan. Kesejukan. Atau tidak ada apa-apa.",
+      "file": "c004.ogg",
+      "durationSec": 14.136
+    },
+    {
+      "index": 5,
+      "text": "Tidak perlu mengubahnya. Hanya perhatikan.",
+      "file": "c005.ogg",
+      "durationSec": 7.512
+    },
+    {
+      "index": 6,
+      "text": "Pindah dengan lembut ke dahi dan mata.",
+      "file": "c006.ogg",
+      "durationSec": 4.848
+    },
+    {
+      "index": 7,
+      "text": "Biarkan otot-otot kecil di sekitar mata menjadi rileks.",
+      "file": "c007.ogg",
+      "durationSec": 6.72
+    },
+    {
+      "index": 8,
+      "text": "Rasakan rahang. Lepaskan jika Anda bisa.",
+      "file": "c008.ogg",
+      "durationSec": 7.584
+    },
+    {
+      "index": 9,
+      "text": "Lidah berada dengan ringan.",
+      "file": "c009.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 10,
+      "text": "Bahu. Apakah terangkat? Biarkan sedikit turun.",
+      "file": "c010.ogg",
+      "durationSec": 10.08
+    },
+    {
+      "index": 11,
+      "text": "Lengan berat. Tangan terbuka atau lembut.",
+      "file": "c011.ogg",
+      "durationSec": 7.248
+    },
+    {
+      "index": 12,
+      "text": "Dada naik turun dengan napas.",
+      "file": "c012.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 13,
+      "text": "Perut lembut. Tanpa memaksa.",
+      "file": "c013.ogg",
+      "durationSec": 6.456
+    },
+    {
+      "index": 14,
+      "text": "Pinggul dan panggul beristirahat.",
+      "file": "c014.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 15,
+      "text": "Paha. Lutut. Kaki bagian bawah.",
+      "file": "c015.ogg",
+      "durationSec": 9.168
+    },
+    {
+      "index": 16,
+      "text": "Kaki. Telapak kaki menyentuh lantai atau matras.",
+      "file": "c016.ogg",
+      "durationSec": 8.04
+    },
+    {
+      "index": 17,
+      "text": "Sekarang rasakan seluruh tubuh sebagai satu bidang kesadaran.",
+      "file": "c017.ogg",
+      "durationSec": 6.936
+    },
+    {
+      "index": 18,
+      "text": "Napas bergerak melaluinya.",
+      "file": "c018.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 19,
+      "text": "Jika muncul titik tegang, hembuskan napas yang lembut ke sana.",
+      "file": "c019.ogg",
+      "durationSec": 7.344
+    },
+    {
+      "index": 20,
+      "text": "Tetap selama tiga napas tenang.",
+      "file": "c020.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 21,
+      "text": "Ketika Anda siap, gerakkan jari tangan dan kaki.",
+      "file": "c021.ogg",
+      "durationSec": 6.384
+    },
+    {
+      "index": 22,
+      "text": "Buka mata Anda. Kembali dengan lembut.",
+      "file": "c022.ogg",
+      "durationSec": 7.176
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "id": "breath-awareness",
+  "voiceId": "id-ardi",
+  "edgeVoice": "id-ID-ArdiNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 136,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Tenangkan diri dalam postur yang stabil.",
+      "file": "c000.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 1,
+      "text": "Tulang belakang tegak tetapi tidak kaku.",
+      "file": "c001.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 2,
+      "text": "Arahkan perhatian ke napas seperti adanya.",
+      "file": "c002.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 3,
+      "text": "Jangan ubah napas dulu. Hanya amati.",
+      "file": "c003.ogg",
+      "durationSec": 7.416
+    },
+    {
+      "index": 4,
+      "text": "Rasakan kesejukan saat menghirup di lubang hidung.",
+      "file": "c004.ogg",
+      "durationSec": 6.096
+    },
+    {
+      "index": 5,
+      "text": "Rasakan kehangatan saat menghembuskan napas.",
+      "file": "c005.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 6,
+      "text": "Atau perhatikan naik turunnya perut.",
+      "file": "c006.ogg",
+      "durationSec": 4.848
+    },
+    {
+      "index": 7,
+      "text": "Pilih satu tempat untuk menaruh perhatian Anda.",
+      "file": "c007.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 8,
+      "text": "Ketika pikiran mengembara, kembalikan dengan lembut.",
+      "file": "c008.ogg",
+      "durationSec": 6.528
+    },
+    {
+      "index": 9,
+      "text": "Tanpa penilaian. Hanya kembali.",
+      "file": "c009.ogg",
+      "durationSec": 7.104
+    },
+    {
+      "index": 10,
+      "text": "Sekarang, jika terasa mudah, hitung siklus lembut.",
+      "file": "c010.ogg",
+      "durationSec": 7.536
+    },
+    {
+      "index": 11,
+      "text": "Tarik napas. Satu.",
+      "file": "c011.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 12,
+      "text": "Buang napas. Satu.",
+      "file": "c012.ogg",
+      "durationSec": 5.928
+    },
+    {
+      "index": 13,
+      "text": "Tarik napas. Dua.",
+      "file": "c013.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 14,
+      "text": "Buang napas. Dua.",
+      "file": "c014.ogg",
+      "durationSec": 5.856
+    },
+    {
+      "index": 15,
+      "text": "Lanjutkan hingga lima, lalu mulai lagi dari satu.",
+      "file": "c015.ogg",
+      "durationSec": 6.816
+    },
+    {
+      "index": 16,
+      "text": "Jika Anda kehilangan hitungan, mulai dari awal dengan kelembutan.",
+      "file": "c016.ogg",
+      "durationSec": 7.752
+    },
+    {
+      "index": 17,
+      "text": "Kembali adalah latihannya.",
+      "file": "c017.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 18,
+      "text": "Biarkan napas alami. Tanpa ketegangan.",
+      "file": "c018.ogg",
+      "durationSec": 7.44
+    },
+    {
+      "index": 19,
+      "text": "Beberapa siklus lagi dalam keheningan.",
+      "file": "c019.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 20,
+      "text": "Hentikan menghitung.",
+      "file": "c020.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 21,
+      "text": "Beristirahatlah dalam kesadaran terbuka sejenak.",
+      "file": "c021.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 22,
+      "text": "Ketika siap, buka mata Anda.",
+      "file": "c022.ogg",
+      "durationSec": 4.968
+    }
+  ]
+}
