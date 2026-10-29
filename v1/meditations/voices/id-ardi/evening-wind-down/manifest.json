@@ -1,0 +1,154 @@
+{
+  "id": "evening-wind-down",
+  "voiceId": "id-ardi",
+  "edgeVoice": "id-ID-ArdiNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 142,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Latihan ini untuk akhir hari.",
+      "file": "c000.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 1,
+      "text": "Redupkan lampu jika memungkinkan.",
+      "file": "c001.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 2,
+      "text": "Berbaring atau bersandar dengan dukungan.",
+      "file": "c002.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 3,
+      "text": "Biarkan hari ini berakhir, meskipun pikiran masih memikirkan tugas.",
+      "file": "c003.ogg",
+      "durationSec": 8.04
+    },
+    {
+      "index": 4,
+      "text": "Anda bisa menaruhnya untuk saat ini.",
+      "file": "c004.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 5,
+      "text": "Tarik napas lembut selama empat hitungan.",
+      "file": "c005.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 6,
+      "text": "Buang napas selama enam hitungan.",
+      "file": "c006.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 7,
+      "text": "Lagi. Empat masuk. Enam keluar.",
+      "file": "c007.ogg",
+      "durationSec": 9.0
+    },
+    {
+      "index": 8,
+      "text": "Buang napas yang lebih panjang memberi tahu tubuh bahwa aman untuk beristirahat.",
+      "file": "c008.ogg",
+      "durationSec": 7.92
+    },
+    {
+      "index": 9,
+      "text": "Periksa ketegangan yang tersisa di wajah.",
+      "file": "c009.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 10,
+      "text": "Lemaskan dahi. Lemaskan rahang.",
+      "file": "c010.ogg",
+      "durationSec": 6.912
+    },
+    {
+      "index": 11,
+      "text": "Turunkan bahu menjauh dari telinga.",
+      "file": "c011.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 12,
+      "text": "Bayangkan hari ini menetap seperti debu setelah angin berhembus.",
+      "file": "c012.ogg",
+      "durationSec": 6.984
+    },
+    {
+      "index": 13,
+      "text": "Apa yang terjadi, telah terjadi.",
+      "file": "c013.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 14,
+      "text": "Yang tersisa bisa menunggu sampai pagi.",
+      "file": "c014.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 15,
+      "text": "Rasakan kasur atau lantai menopang Anda.",
+      "file": "c015.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 16,
+      "text": "Nafas lebih tenang. Tubuh lebih berat.",
+      "file": "c016.ogg",
+      "durationSec": 7.008
+    },
+    {
+      "index": 17,
+      "text": "Jika tidur datang, biarkan saja.",
+      "file": "c017.ogg",
+      "durationSec": 5.688
+    },
+    {
+      "index": 18,
+      "text": "Jika tidak, beristirahatlah dalam kelembutan ini.",
+      "file": "c018.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 19,
+      "text": "Tiga napas lambat lagi.",
+      "file": "c019.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 20,
+      "text": "Masuk. Keluar.",
+      "file": "c020.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 21,
+      "text": "Masuk. Keluar.",
+      "file": "c021.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 22,
+      "text": "Masuk. Keluar.",
+      "file": "c022.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 23,
+      "text": "Selamat malam untuk hari ini. Damai untuk malam ini.",
+      "file": "c023.ogg",
+      "durationSec": 8.064
+    }
+  ]
+}

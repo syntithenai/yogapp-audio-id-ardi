@@ -1,0 +1,214 @@
+{
+  "id": "focus-clarity-5",
+  "voiceId": "id-ardi",
+  "edgeVoice": "id-ID-ArdiNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 169,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Selamat datang.",
+      "file": "c000.ogg",
+      "durationSec": 3.48
+    },
+    {
+      "index": 1,
+      "text": "Cari posisi duduk yang nyaman, atau berbaring jika itu terasa lebih baik.",
+      "file": "c001.ogg",
+      "durationSec": 8.16
+    },
+    {
+      "index": 2,
+      "text": "Biarkan tangan tetap rileks.",
+      "file": "c002.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 3,
+      "text": "Lepaskan ketegangan mata, atau tutup matamu.",
+      "file": "c003.ogg",
+      "durationSec": 6.528
+    },
+    {
+      "index": 4,
+      "text": "Ambil napas perlahan masuk.",
+      "file": "c004.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 5,
+      "text": "Dan hembuskan napas lebih lama.",
+      "file": "c005.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 6,
+      "text": "Pilih satu titik fokus. Napas di hidung, atau kenaikan perut.",
+      "file": "c006.ogg",
+      "durationSec": 9.768
+    },
+    {
+      "index": 7,
+      "text": "Tetapkan perhatian di sana.",
+      "file": "c007.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 8,
+      "text": "[jeda:23]",
+      "file": "c008.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 9,
+      "text": "Ketika pikiran beralih, sadari ke mana ia berpindah.",
+      "file": "c009.ogg",
+      "durationSec": 6.888
+    },
+    {
+      "index": 10,
+      "text": "Lalu kembalilah. Dengan lembut. Dengan bersih.",
+      "file": "c010.ogg",
+      "durationSec": 9.96
+    },
+    {
+      "index": 11,
+      "text": "[jeda:29]",
+      "file": "c011.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 12,
+      "text": "Kemarahan adalah latihan.",
+      "file": "c012.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 13,
+      "text": "Hidupi napas masuk. Tetaplah.",
+      "file": "c013.ogg",
+      "durationSec": 6.744
+    },
+    {
+      "index": 14,
+      "text": "Hembuskan napas. Tetaplah.",
+      "file": "c014.ogg",
+      "durationSec": 6.504
+    },
+    {
+      "index": 15,
+      "text": "[jeda:34]",
+      "file": "c015.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 16,
+      "text": "Jika membantu, hitung napas hingga lima, lalu mulai lagi.",
+      "file": "c016.ogg",
+      "durationSec": 8.136
+    },
+    {
+      "index": 17,
+      "text": "Satu.",
+      "file": "c017.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 18,
+      "text": "[jeda:17]",
+      "file": "c018.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 19,
+      "text": "Dua.",
+      "file": "c019.ogg",
+      "durationSec": 2.736
+    },
+    {
+      "index": 20,
+      "text": "[jeda:17]",
+      "file": "c020.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 21,
+      "text": "Tiga.",
+      "file": "c021.ogg",
+      "durationSec": 2.784
+    },
+    {
+      "index": 22,
+      "text": "[jeda:17]",
+      "file": "c022.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 23,
+      "text": "Empat.",
+      "file": "c023.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 24,
+      "text": "[jeda:17]",
+      "file": "c024.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 25,
+      "text": "Lima.",
+      "file": "c025.ogg",
+      "durationSec": 2.736
+    },
+    {
+      "index": 26,
+      "text": "[jeda:23]",
+      "file": "c026.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 27,
+      "text": "Lepaskan hitungan.",
+      "file": "c027.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 28,
+      "text": "Beristirahatlah dalam perhatian yang jernih dan terbuka sejenak.",
+      "file": "c028.ogg",
+      "durationSec": 7.008
+    },
+    {
+      "index": 29,
+      "text": "[jeda:34]",
+      "file": "c029.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 30,
+      "text": "Ambil satu napas lagi dengan mudah.",
+      "file": "c030.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 31,
+      "text": "Goyangkan jari-jari tangan.",
+      "file": "c031.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 32,
+      "text": "Ketika Anda siap, buka mata.",
+      "file": "c032.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 33,
+      "text": "Bawa sedikit dari ini bersama Anda.",
+      "file": "c033.ogg",
+      "durationSec": 4.92
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "id": "anxiety-soft-landing",
+  "voiceId": "id-ardi",
+  "edgeVoice": "id-ID-ArdiNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 150,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Jika Anda merasa teraktivasi atau cemas, Anda diterima di sini.",
+      "file": "c000.ogg",
+      "durationSec": 7.68
+    },
+    {
+      "index": 1,
+      "text": "Anda tidak perlu merasa tenang sekarang.",
+      "file": "c001.ogg",
+      "durationSec": 4.848
+    },
+    {
+      "index": 2,
+      "text": "Ikuti saja.",
+      "file": "c002.ogg",
+      "durationSec": 3.336
+    },
+    {
+      "index": 3,
+      "text": "Tanamkan kedua kaki di lantai jika Anda bisa.",
+      "file": "c003.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 4,
+      "text": "Rasakan kontaknya. Tumit. Telapak kaki. Jari-jari kaki.",
+      "file": "c004.ogg",
+      "durationSec": 13.032
+    },
+    {
+      "index": 5,
+      "text": "Tekan perlahan. Perhatikan tekanan balik dari lantai.",
+      "file": "c005.ogg",
+      "durationSec": 8.352
+    },
+    {
+      "index": 6,
+      "text": "Sebutkan lima hal yang bisa Anda lihat.",
+      "file": "c006.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 7,
+      "text": "Diam-diam. Tanpa terburu-buru.",
+      "file": "c007.ogg",
+      "durationSec": 6.888
+    },
+    {
+      "index": 8,
+      "text": "Sebutkan empat hal yang bisa Anda sentuh.",
+      "file": "c008.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 9,
+      "text": "Pakaian. Kursi. Udara di kulit.",
+      "file": "c009.ogg",
+      "durationSec": 9.312
+    },
+    {
+      "index": 10,
+      "text": "Sebutkan tiga suara, dekat atau jauh.",
+      "file": "c010.ogg",
+      "durationSec": 6.264
+    },
+    {
+      "index": 11,
+      "text": "Sebutkan dua aroma, atau sekadar perhatikan udara.",
+      "file": "c011.ogg",
+      "durationSec": 7.152
+    },
+    {
+      "index": 12,
+      "text": "Sebutkan satu rasa, atau perasaan di mulut.",
+      "file": "c012.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 13,
+      "text": "Anda di sini. Dalam tubuh ini. Di ruangan ini.",
+      "file": "c013.ogg",
+      "durationSec": 10.032
+    },
+    {
+      "index": 14,
+      "text": "Sekarang tarik napas selama empat detik.",
+      "file": "c014.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 15,
+      "text": "Tahan dengan lembut selama dua.",
+      "file": "c015.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 16,
+      "text": "Keluar selama enam.",
+      "file": "c016.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 17,
+      "text": "Lagi jika kamu mau.",
+      "file": "c017.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 18,
+      "text": "Letakkan tangan di dada atau perut.",
+      "file": "c018.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 19,
+      "text": "Rasakan gerakan di bawah tanganmu.",
+      "file": "c019.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 20,
+      "text": "Kecemasan mungkin masih ada. Itu diperbolehkan.",
+      "file": "c020.ogg",
+      "durationSec": 7.944
+    },
+    {
+      "index": 21,
+      "text": "Kamu telah memberi sistem saraf pendaratan yang lebih lembut.",
+      "file": "c021.ogg",
+      "durationSec": 6.336
+    },
+    {
+      "index": 22,
+      "text": "Ambil satu napas lagi.",
+      "file": "c022.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 23,
+      "text": "Ketika siap, buka mata dan lanjutkan harimu.",
+      "file": "c023.ogg",
+      "durationSec": 6.12
+    }
+  ]
+}
